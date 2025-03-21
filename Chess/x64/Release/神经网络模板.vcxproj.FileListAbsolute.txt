@@ -1,0 +1,2 @@
+C:\Users\ASUS\Desktop\AI\chess\神经网络模板\x64\Release\chess.exe
+C:\Users\ASUS\Desktop\AI\chess-vs\神经网络模板\x64\Release\chess.exe
